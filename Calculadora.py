@@ -14,3 +14,5 @@ def division(a: float,b: float) -> float:
 		raise ZeroDivisionError("division by zero")
 	return a / b
 
+print(f"La suma de {3} + {1} es {sum(3,1)}")
+print("Bryan Acarreador")
